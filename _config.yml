@@ -1,7 +1,7 @@
 name: Jimflip
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.41841158806346357
+layout_spectrum: 0.24197
+typography_spectrum: 0.65849
 title: Welcome
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.1837850776501
+  brandStrength: 0.4375
   lightness: 0.6118273383472115
   saturation: 0.1003661083523184
   rhythmicContrast: 0.6060373035725206
