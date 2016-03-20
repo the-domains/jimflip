@@ -2,6 +2,7 @@ name: Jimflip
 favicon: null
 layout_spectrum: 0.8318564931396395
 typography_spectrum: 0.41841158806346357
+title: Welcome
 cta:
   domain: null
   bucket: null
