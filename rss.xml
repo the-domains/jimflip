@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jimflip]]></title>
-        <description><![CDATA[Jimflip]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Welcome]]></title>
+        <description><![CDATA[Welcome]]></description>
+        <link>http://jimflip.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 20:53:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 21:21:53 GMT</lastBuildDate>
+        <atom:link href="http://jimflip.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6e2500d-8a90-41c7-b777-839fcb75b9a8.jpg">]]></description>
+            <link>http://jimflip.com/67a6a6af-1adf-4763-9088-bc32b9a7393f/index.html</link>
+            <guid isPermaLink="false">67a6a6af-1adf-4763-9088-bc32b9a7393f</guid>
+            <pubDate>Sun, 20 Mar 2016 21:21:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6404c372-7492-4aca-9fa9-48ba6c41becb.jpg">]]></description>
-            <link>undefined280865c1-c5eb-440f-abdf-e9018e70b47f/index.html</link>
+            <link>http://jimflip.com/280865c1-c5eb-440f-abdf-e9018e70b47f/index.html</link>
             <guid isPermaLink="false">280865c1-c5eb-440f-abdf-e9018e70b47f</guid>
             <pubDate>Sun, 20 Mar 2016 20:52:52 GMT</pubDate>
         </item>
