@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Welcome]]></title>
-        <description><![CDATA[Welcome]]></description>
+        <title><![CDATA[Jimflip '16]]></title>
+        <description><![CDATA[Jimflip '16]]></description>
         <link>http://jimflip.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 22:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 00:46:56 GMT</lastBuildDate>
         <atom:link href="http://jimflip.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6404c372-7492-4aca-9fa9-48ba6c41becb.jpg">]]></description>
             <link>http://jimflip.com/280865c1-c5eb-440f-abdf-e9018e70b47f/index.html</link>
             <guid isPermaLink="false">280865c1-c5eb-440f-abdf-e9018e70b47f</guid>
-            <pubDate>Sun, 20 Mar 2016 22:00:23 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 00:46:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
