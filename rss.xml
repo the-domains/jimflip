@@ -4,14 +4,14 @@
         <description><![CDATA[Jimflip '16]]></description>
         <link>http://jimflip.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 00:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 01:00:43 GMT</lastBuildDate>
         <atom:link href="http://jimflip.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BD ]]></title>
-            <description><![CDATA[<h1>BD </h1>]]></description>
-            <link>http://jimflip.com/bd/index.html</link>
+            <description><![CDATA[<article><h1>BD </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ecd96a-e4d1-4e77-a539-f63a076b64e7.png"></article>]]></description>
+            <link>urn:uuid:b655359b-9b15-4193-a245-8cff7e4ade7b</link>
             <guid isPermaLink="false">b0050d87-060c-4861-8db2-1323af804300</guid>
-            <pubDate>Mon, 08 Aug 2016 00:52:36 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2016 01:00:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
