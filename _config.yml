@@ -1,7 +1,7 @@
 name: Jimflip
 favicon: null
-layout_spectrum: 0.24197
-typography_spectrum: 0.65849
+layout_spectrum: 0.48574
+typography_spectrum: 0.74344
 title: Jimflip '16
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#f9f4f3'
+    - '#cbbfc5'
+    - '#2500ac'
+    - '#a17160'
+    - '#407ee2'
   brandStrength: 0.3125
   lightness: 0.6118273383472115
   saturation: 0
